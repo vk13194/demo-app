@@ -3,9 +3,9 @@ import React from 'react'
 const App = () => {
   return (
     <div>
-      <h3>hello1</h3>
-    </div>
+      <h3>hello  github</h3>
+      </div>
   )
 }
 
-export default App
+export default App;
